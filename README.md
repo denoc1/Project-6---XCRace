@@ -39,6 +39,7 @@ Name,Age,Grade,Race,Time
 
 Example:
 Mia Thomas,15,9,5k,00:23:17
+
 Leo Zhang,17,11,10k,01:02:45
 
 A tester file will be provided to you.
